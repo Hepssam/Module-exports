@@ -1,0 +1,2 @@
+require("./student")
+require("./teacher")
